@@ -1,2 +1,2 @@
-let resultado = 17-8*10;
+let resultado = 64 / 16 ;
 console.log(resultado);
